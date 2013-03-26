@@ -1,0 +1,30 @@
+[ { polygon: 'Australia', distance: 0, time: 0 },
+  { polygon: 'ACT', distance: 0, time: 0 },
+  { polygon: 'Slovakia', distance: 217433, time: 308244 },
+  { polygon: 'Presovsky kraj', distance: 113766, time: 221350 },
+  { polygon: 'Kosicky kraj', distance: 102751, time: 86860 } ]
+bench: 43ms
+[ { polygon: 'Australia', distance: 0, time: 0 },
+  { polygon: 'ACT', distance: 0, time: 0 },
+  { polygon: 'Slovakia', distance: 217433, time: 308244 },
+  { polygon: 'Presovsky kraj', distance: 113766, time: 221350 },
+  { polygon: 'Kosicky kraj', distance: 102751, time: 86860 } ]
+bench: 24ms
+[ { polygon: 'Australia', distance: 0, time: 0 },
+  { polygon: 'ACT', distance: 0, time: 0 },
+  { polygon: 'Slovakia', distance: 217433, time: 308244 },
+  { polygon: 'Presovsky kraj', distance: 113766, time: 221350 },
+  { polygon: 'Kosicky kraj', distance: 102751, time: 86860 } ]
+bench: 24ms
+[ { polygon: 'Australia', distance: 0, time: 0 },
+  { polygon: 'ACT', distance: 0, time: 0 },
+  { polygon: 'Slovakia', distance: 217433, time: 308244 },
+  { polygon: 'Presovsky kraj', distance: 113766, time: 221350 },
+  { polygon: 'Kosicky kraj', distance: 102751, time: 86860 } ]
+bench: 25ms
+[ { polygon: 'Australia', distance: 0, time: 0 },
+  { polygon: 'ACT', distance: 0, time: 0 },
+  { polygon: 'Slovakia', distance: 217433, time: 308244 },
+  { polygon: 'Presovsky kraj', distance: 113766, time: 221350 },
+  { polygon: 'Kosicky kraj', distance: 102751, time: 86860 } ]
+bench: 23ms

@@ -1,0 +1,186 @@
+array(5) {
+  ["Australia"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["ACT"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["Slovakia"]=>
+  array(2) {
+    ["distance"]=>
+    int(217433)
+    ["time"]=>
+    int(308244)
+  }
+  ["Presovsky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(113766)
+    ["time"]=>
+    int(221350)
+  }
+  ["Kosicky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(102751)
+    ["time"]=>
+    int(86860)
+  }
+}
+Time Elapsed: 1364.2450027766s <br>array(5) {
+  ["Australia"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["ACT"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["Slovakia"]=>
+  array(2) {
+    ["distance"]=>
+    int(217433)
+    ["time"]=>
+    int(308244)
+  }
+  ["Presovsky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(113766)
+    ["time"]=>
+    int(221350)
+  }
+  ["Kosicky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(102751)
+    ["time"]=>
+    int(86860)
+  }
+}
+Time Elapsed: 1364.2450059262s <br>array(5) {
+  ["Australia"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["ACT"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["Slovakia"]=>
+  array(2) {
+    ["distance"]=>
+    int(217433)
+    ["time"]=>
+    int(308244)
+  }
+  ["Presovsky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(113766)
+    ["time"]=>
+    int(221350)
+  }
+  ["Kosicky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(102751)
+    ["time"]=>
+    int(86860)
+  }
+}
+Time Elapsed: 1364.245009106s <br>array(5) {
+  ["Australia"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["ACT"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["Slovakia"]=>
+  array(2) {
+    ["distance"]=>
+    int(217433)
+    ["time"]=>
+    int(308244)
+  }
+  ["Presovsky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(113766)
+    ["time"]=>
+    int(221350)
+  }
+  ["Kosicky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(102751)
+    ["time"]=>
+    int(86860)
+  }
+}
+Time Elapsed: 1364.2450122609s <br>array(5) {
+  ["Australia"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["ACT"]=>
+  array(2) {
+    ["distance"]=>
+    int(0)
+    ["time"]=>
+    int(0)
+  }
+  ["Slovakia"]=>
+  array(2) {
+    ["distance"]=>
+    int(217433)
+    ["time"]=>
+    int(308244)
+  }
+  ["Presovsky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(113766)
+    ["time"]=>
+    int(221350)
+  }
+  ["Kosicky kraj"]=>
+  array(2) {
+    ["distance"]=>
+    int(102751)
+    ["time"]=>
+    int(86860)
+  }
+}
+Time Elapsed: 1364.2450154012s <br>
