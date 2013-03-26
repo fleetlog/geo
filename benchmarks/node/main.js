@@ -27,6 +27,8 @@ for(var c = 0; c < 5; c++) {
 		results.push({polygon: polygons[i][0], distance: distance, time: time});
 	}
 
+
 	console.log(util.inspect(results));
 	console.timeEnd('bench');
+
 }
